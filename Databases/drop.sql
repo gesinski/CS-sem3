@@ -1,0 +1,12 @@
+DROP TABLE Pakowanie;
+DROP TABLE Wysylka;
+DROP TABLE Maszyna;
+DROP TABLE Drukowanie;
+DROP TABLE Zapotrzebowanie;
+DROP TABLE Obliczenie;
+DROP TABLE Ksiazka;
+DROP TABLE Zamowienie;
+DROP TABLE Dostawa;
+DROP TABLE Material;
+DROP TABLE Wymagania_materialu;
+DROP TABLE Klient;
